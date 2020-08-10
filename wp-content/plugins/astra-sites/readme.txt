@@ -5,7 +5,7 @@ Tags: Elementor,Beaver Builder,Templates,Gutenberg,Astra Starter Sites
 Requires at least: 4.4
 Requires PHP: 5.3
 Tested up to: 5.4
-Stable tag: 2.3.2
+Stable tag: 2.3.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,7 +65,7 @@ You can extend this library with premium ready-to-use website demos by purchasin
 
 = WHY PEOPLE LOVE THE ASTRA THEME? =
 
-Over 900,000+ users are empowering their websites with Astra! From beginners to industry experts, everyone is loving Astra for its performance and ease of use.
+Over 1+ million users are empowering their websites with Astra! From beginners to industry experts, everyone is loving Astra for its performance and ease of use.
 
 = HERE ARE A FEW REASONS WHY THEY LOVE ASTRA – =
 
@@ -137,6 +137,9 @@ We are open to suggestions and would love to work on topics that our users are l
 7. Free Images by Pixabay right inside the WordPress media popup.
 
 == Changelog ==
+
+v2.3.3 - 7-August-2020
+- Improvement: Minor code changes.
 
 v2.3.2 - 29-June-2020
 - Improvement: Added CartFlows Landing page compatibility to LeadDash courses.
